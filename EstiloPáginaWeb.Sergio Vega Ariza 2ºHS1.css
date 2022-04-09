@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(142, 184, 231);
+    text-align: center;
+}
+
+h2,h3{
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-style: italic;
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+h2{
+    font-size: 28 px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h3 {
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
+
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    color: black;
+    font-weight: normal;
+    text-align: left;
+    margin: 8px;
+}
+
+nav ul li{
+    display: inline-block;
+    color: rgb(236, 235, 235);
+    font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
