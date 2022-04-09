@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(142, 184, 231);
+    text-align: center;
+}
+
+
+h2{
+    font-size: 28 px;
+    color:rgb(0, 0, 0);
+    text-align: center;
+}
+
+nav ul li{
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+
+
+
+
+}
